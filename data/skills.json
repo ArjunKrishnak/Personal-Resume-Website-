@@ -1,0 +1,31 @@
+[
+  {
+      "grouping":"Programming Languages",
+      "skills":[ "C++","Python","Java","JavaScript","C","Objective C","MATLAB"]
+  },
+  {
+    "grouping":"Frameworks",
+    "skills":[
+      {"name":"Pytorch","link":"https://pytorch.org/"},
+      {"name":"TensorFlow","link":"https://www.tensorflow.org/"},
+      {"name":"React","link":"https://reactjs.org/"},
+      {"name":"Android SDK","link":"https://developer.android.com/studio/releases/sdk-tools"},
+      {"name":"HLSL","link":"https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"},
+      {"name":"Metal","link":"https://developer.apple.com/metal/"},
+      {"name":"Microsoft SDK","link":"https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/"},
+      {"name":"OpenCV","link":"https://opencv.org/"}
+    ]
+  },
+  {
+      "grouping":"Databases",
+      "skills":["mySQL","MongoDb"]
+  },
+  {
+    "grouping":"Developer tools and consoles",
+    "skills":["Git","Perforce","VisualStudio","Android","XCode","PyCharm","NGINX","AWS","Linux","Apple","Windows"]
+  },
+  {
+    "grouping":"Domain Knowledge",
+    "skills":["Data Analysis","Computer Vision","Natural Language Processing","Machine Learning","Image processing","Color Management","Storage Scalability","System Design"]
+  }
+]

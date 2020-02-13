@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Member of technical staff",
+        "company":"Adobe Systems",
+        "summary":"Developed Genshop which is Adobe's in-house deep learning python library for Generative models primarily GANs. Worked on CPU (single and multithreaded) and GPU workflows of Adobe Color Engine (ACE)", 
+        "range":"Jun 2019 – Present"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"IIT Roorkee",
+        "summary":"Worked on Action Recognition with feature fusion.",
+        "range":"Dec 2017 – Jan 2018"
+    },
+    {
+        "role":"Research Intern",
+        "company":"Adobe Systems",
+        "summary":"Interned with Big Data Experience Lab, Adobe Research, Bengaluru.",
+        "range":"May 2018 - July 2018"
+    }
+]

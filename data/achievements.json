@@ -1,0 +1,37 @@
+[
+    {
+        "title":"Best B.Tech. project award",
+        "institution":"Indian Institute of Technology Roorkee",
+        "summary":"Best B.Tech. Project Award IIT Roorkee received from director IIT Roorkee.",
+        "date":"2019"
+    },
+    {
+        "title":"Winner Adobe shark tank event",
+        "institution":"Adobe Systems",
+        "summary":"Won the Adobe shark tank event for the betch idea pich among all the new campus graduates",
+        "date":"2019"
+    },
+    {
+        "title":"KVPY national scholarship ",
+        "institution":"Indian Institute of Science",
+        "summary":"Secured All India Rank of 401 among ~1,20,000 participants for Kishore Vaigyanik Protsahan Yojana",
+        "date":"2014"
+    },
+    {
+        "title": "District topper of All India Senior School Certificate Examination 2015",
+        "institution":"Indian Institute of Science",
+        "summary":"All India Senior School Certificate Examination 2015 certificate received from education minister India.",
+        "date":"2014"
+    },
+    {
+        "title": "Cleared  First Stage of CODEFUNDO ",
+        "institution":"Microsoft",
+        "date":"2015"
+    },
+    {
+        "title": "Cleared  First Level of International Chemistry Olympiad",
+        "institution":"Indian Association of Physics Teachers",
+        "date":"2014"
+    }
+]
+

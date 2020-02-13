@@ -1,0 +1,39 @@
+baseURL = "https://arjunkrishna.github.io/"
+languageCode = "en-us"
+title = "Arjun Krishna"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Arjun"
+    lastName = "Krishna"
+    address = "Whitefield, Bengaluru"
+    phone = "+91 8848661970"
+    contactNote = "MTS at Adobe Bengaluru"
+    profileImage = "img/profile_pic.jpg"
+    email = "arjunkrishna.office@gmail.com"
+    description = "Software Engineer with experience in proposing and implementing architectural changes, adopting new technologies, creating proof-of-concept, influencing product requirements, implementing and reviewing changes, and mentoring team to implement best practices and improving engineering efficiency."
+    favicon = "/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showAchievements = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+    showQr = false
+
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/arjun.krishna.50309277"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/arjun-krishna-k/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/ArjunKrishnak"
+
+[params.google.analytics]
+    trackerID = "UA-152088779-1"
