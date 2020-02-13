@@ -11,8 +11,8 @@ then
     chmod 0600 ~/.git-credentials
     echo $GITHUB_AUTH_SECRET > ~/.git-credentials
     git config credential.helper store
-    # git config user.email "sumeetsahu-homepage-bot@users.noreply.github.com"
-    # git config user.name "sumeetsahu-homepage-bot"
+    git config user.email "arjunkrishna.office@gmail.com"
+    git config user.name "ArjunKrishnak"
 fi
 git add .
 git commit -m "Rebuild site"
