@@ -1,5 +1,5 @@
 # Resume Homepage
-[![Build Status](https://travis-ci.com/ArjunKrishnak/hugo_resume.svg?branch=master)](https://travis-ci.com/ArjunKrishnak/hugo_resume)
+#https://api.travis-ci.org/repos/ArjunKrishnak/hugo_resume/cc.xml?branch=master
 
 arjunkrishnak.github.io
 # Theme
