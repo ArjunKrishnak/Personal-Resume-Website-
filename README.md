@@ -3,12 +3,12 @@
 
 arjunkrishna.com
 
-#Favicon 
+# Favicon 
 - favicon is generated using https://favicon.io/favicon-generator/ 
-- Text: AK
-- Font Color: #FFFFFF
-- Background Color: #e25e94
-- Background: Circle
-- Font Family: Open Sans
-- Font Size: 75
+-- Text: AK
+-- Font Color: #FFFFFF
+-- Background Color: #e25e94
+-- Background: Circle
+-- Font Family: Open Sans
+-- Font Size: 75
 
