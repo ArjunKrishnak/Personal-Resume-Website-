@@ -1,5 +1,5 @@
 # Resume Homepage
-<!-- [![Build Status](https://travis-ci.com/sumeetsahu/homepage.svg?branch=master)](https://travis-ci.com/sumeetsahu/homepage) -->
+[![Build Status](https://travis-ci.com/ArjunKrishnak/hugo_resume.svg?branch=master)](https://travis-ci.com/ArjunKrishnak/hugo_resume)
 
 arjunkrishnak.github.io
 # Theme
