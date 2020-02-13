@@ -1,8 +1,9 @@
 # homepage
 <!-- [![Build Status](https://travis-ci.com/sumeetsahu/homepage.svg?branch=master)](https://travis-ci.com/sumeetsahu/homepage) -->
 
-arjunkrishna.com
-
+arjunkrishnak.github.io
+# Theme
+  [hugo-resume](https://github.com/eddiewebb/hugo-resume) powered by [hugo](https://gohugo.io/)
 # Favicon 
 - favicon is generated using https://favicon.io/favicon-generator/ 
   - Text: AK
