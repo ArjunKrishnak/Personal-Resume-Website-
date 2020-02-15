@@ -14,6 +14,7 @@ theme = "hugo-resume"
     description = "Software Engineer with experience in proposing and implementing architectural changes, adopting new technologies, creating proof-of-concept, influencing product requirements, implementing and reviewing changes, and mentoring team to implement best practices and improving engineering efficiency."
     favicon = "/favicon.ico"
     # what sections
+    showDownloadResumeLink = true
     showSkills = true
     showProjects = true
     showAchievements = true
