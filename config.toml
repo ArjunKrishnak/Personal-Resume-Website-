@@ -8,10 +8,10 @@ theme = "hugo-resume"
     lastName = "Krishna"
     address = "Whitefield, Bengaluru"
     phone = "+91 8848661970"
-    contactNote = "MTS at Adobe Bengaluru"
+    contactNote = "Software Engineer at Adobe Bengaluru"
     profileImage = "img/profile_pic.jpg"
     email = "arjunkrishna.office@gmail.com"
-    description = "Software Engineer with experience in proposing and implementing architectural changes, adopting new technologies, creating proof-of-concept, influencing product requirements, implementing and reviewing changes, and mentoring team to implement best practices and improving engineering efficiency."
+    description = "I am an IIT Roorkee alumnus currently working at Adobe. I'm passionate about machine learning and data analysis and applying the same to web, mobile and desktop software. Through myprojects and work experience, I was able to familiarize myself with how to handle big data and draw inferences from it. I am also familiar with SOLID design principles and test-driven development to provide end to end solutions. I would love to work with companies working on challenging products and ideas."
     favicon = "/favicon.ico"
     # what sections
     showDownloadResumeLink = true

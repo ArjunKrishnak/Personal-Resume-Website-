@@ -1,6 +1,6 @@
 [
     {
-        "role":"Member of technical staff",
+        "role":"Software Engineer",
         "company":"Adobe Systems",
         "summary":"Developed Genshop which is Adobe's in-house deep learning python library for Generative models primarily GANs. Worked on CPU (single and multithreaded) and GPU workflows of Adobe Color Engine (ACE) and Modular Parsing System (MPS)", 
         "range":"Jun 2019 – Present"

@@ -10,10 +10,12 @@
       {"name":"TensorFlow","link":"https://www.tensorflow.org/"},
       {"name":"React","link":"https://reactjs.org/"},
       {"name":"Android SDK","link":"https://developer.android.com/studio/releases/sdk-tools"},
+      {"name":"OpenCV","link":"https://opencv.org/"},
+      {"name":"NodeJS","link":"https://nodejs.org/en/about/"},
+      {"name":"Flask","link":"https://palletsprojects.com/p/flask/"},
       {"name":"HLSL","link":"https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"},
       {"name":"Metal","link":"https://developer.apple.com/metal/"},
-      {"name":"Microsoft SDK","link":"https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/"},
-      {"name":"OpenCV","link":"https://opencv.org/"}
+      {"name":"Microsoft SDK","link":"https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/"}
     ]
   },
   {
