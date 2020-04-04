@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I'm an alumnus from IIT Roorkee currently working at Adobe. I'm passionate about machine learning and data analysis with specific interest in the applications of deep learning in the field of computer vision. I'm a quick learner and a problem solver with a demonstrated experience in the deep learning industry. I'm interested in developing end to end web and mobile solutions that harness the power of AI.
+I am an IIT Roorkee alumnus currently working at Adobe. I'm passionate about machine learning and web development. Through my projects and work experience, I was able to familiarize myself how to handle big data, develop POCs around machine learning models and develop machine learning solutions in production. I am also familiar with SOLID design principles, data structures, system design and test-driven development to provide end to end solutions.
