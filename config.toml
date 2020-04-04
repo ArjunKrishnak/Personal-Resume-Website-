@@ -11,7 +11,8 @@ theme = "hugo-resume"
     contactNote = "Software Engineer at Adobe Bengaluru"
     profileImage = "img/profile_pic.jpg"
     email = "arjunkrishna.office@gmail.com"
-    description = "I am an IIT Roorkee alumnus currently working at Adobe. I'm passionate about machine learning and data analysis and applying the same to web, mobile and desktop software. Through myprojects and work experience, I was able to familiarize myself with how to handle big data and draw inferences from it. I am also familiar with SOLID design principles and test-driven development to provide end to end solutions. I would love to work with companies working on challenging products and ideas."
+    
+    description = "I am an IIT Roorkee alumnus currently working at Adobe. I'm passionate about machine learning and web development. Through my projects and work experience, I was able to familiarize myself how to handle big data, develop POCs around machine learning models and develop machine learning solutions in production. I am also familiar with SOLID design principles, data structures, system design and test-driven development to provide end to end solutions."
     favicon = "/favicon.ico"
     # what sections
     showDownloadResumeLink = true
