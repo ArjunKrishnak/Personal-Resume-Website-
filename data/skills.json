@@ -8,6 +8,7 @@
     "skills":[
       {"name":"Pytorch","link":"https://pytorch.org/"},
       {"name":"TensorFlow","link":"https://www.tensorflow.org/"},
+      {"name":"SparkML","link":"https://spark.apache.org/docs/1.2.2/index.html"},
       {"name":"React","link":"https://reactjs.org/"},
       {"name":"Android SDK","link":"https://developer.android.com/studio/releases/sdk-tools"},
       {"name":"OpenCV","link":"https://opencv.org/"},
@@ -15,12 +16,13 @@
       {"name":"Flask","link":"https://palletsprojects.com/p/flask/"},
       {"name":"HLSL","link":"https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"},
       {"name":"Metal","link":"https://developer.apple.com/metal/"},
-      {"name":"Microsoft SDK","link":"https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/"}
+      {"name":"Microsoft SDK","link":"https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/"},
+      {"name":"Emscripten","link":"https://emscripten.org/"}
     ]
   },
   {
       "grouping":"Databases",
-      "skills":["mySQL","MongoDb"]
+      "skills":["mySQL","MongoDb","Apache RDD","Indexed DB"]
   },
   {
     "grouping":"Developer tools and consoles",
