@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Arjun Krishna</title>
+    <link>https://arjunkrishnak.github.io/publications/</link>
+    <description>Recent content in Publications on Arjun Krishna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arjunkrishnak.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video segment copy detection</title>
+      <link>https://arjunkrishnak.github.io/publications/vscd/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://arjunkrishnak.github.io/publications/vscd/</guid>
+      <description>In this Work, we introduce a video hashing method for scalable video segment copy detection. The objective of video segment copy detection is to find the video (s) present in a large database, one of whose segments (cropped in time) is a (transformed) copy of the given query video. This transformation may be temporal (for example frame dropping, change in frame rate) or spatial (brightness and contrast change, addition of noise etc.</description>
+    </item>
+    
+  </channel>
+</rss>

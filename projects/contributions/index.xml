@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Contributions on Arjun Krishna</title>
+    <link>https://arjunkrishnak.github.io/projects/contributions/</link>
+    <description>Recent content in Open Source Contributions on Arjun Krishna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2019 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://arjunkrishnak.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cyclical Learning Rate (CLR)</title>
+      <link>https://arjunkrishnak.github.io/projects/contributions/cyclical_lr/</link>
+      <pubDate>Sat, 12 Oct 2019 12:41:05 -0500</pubDate>
+      
+      <guid>https://arjunkrishnak.github.io/projects/contributions/cyclical_lr/</guid>
+      <description>Worked and experimented with CLR algorithm which is implemented in Keras that uses cyclical learning rates to train deep neural networks.</description>
+    </item>
+    
+    <item>
+      <title>Text detection in natural scenes</title>
+      <link>https://arjunkrishnak.github.io/projects/contributions/text_detection_in_natural_scenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arjunkrishnak.github.io/projects/contributions/text_detection_in_natural_scenes/</guid>
+      <description>Proposed a combination of MSER(Maximally Stable Extremal Regions) detection followed by SWT(Stroke Width Transform) to improve the accuracy of text localization.</description>
+    </item>
+    
+  </channel>
+</rss>
