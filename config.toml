@@ -8,11 +8,11 @@ theme = "hugo-resume"
     lastName = "Krishna"
     address = "Whitefield, Bengaluru"
     phone = "+91 8848661970"
-    contactNote = "Software Engineer at Adobe Bengaluru"
+    contactNote = "Software Engineer 2 at Amazon Bengaluru | Ex-Adobe | IIT Roorkee `19"
     profileImage = "img/profile_pic.jpg"
     email = "arjunkrishna.office@gmail.com"
     
-    description = "I am an IIT Roorkee alumnus currently working at Adobe. I'm passionate about machine learning and web development. Through my projects and work experience, I was able to familiarize myself how to handle big data, develop POCs around machine learning models and develop machine learning solutions in production. I am also familiar with SOLID design principles, data structures, system design and test-driven development to provide end to end solutions."
+    description = "I am an IIT Roorkee alumnus currently working at Amazon. I'm passionate about machine learning and web development. Through my projects and work experience, I was able to familiarize myself how to handle big data, develop POCs around machine learning models and develop machine learning solutions in production. I am also familiar with SOLID design principles, data structures, system design and test-driven development to provide end to end solutions."
     favicon = "/favicon.ico"
     # what sections
     showDownloadResumeLink = true
