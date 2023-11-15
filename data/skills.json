@@ -1,11 +1,12 @@
 [
   {
       "grouping":"Programming Languages",
-      "skills":[ "C++","Python","Java","JavaScript","C","Objective C","MATLAB"]
+      "skills":[ "C++","Java","Python","JavaScript","TypeScript","C","Objective C","MATLAB","Ruby"]
   },
   {
     "grouping":"Frameworks",
     "skills":[
+      {"name":"AWS SDK","link":"https://sdk.amazonaws.com/java/api/latest/"},
       {"name":"Pytorch","link":"https://pytorch.org/"},
       {"name":"TensorFlow","link":"https://www.tensorflow.org/"},
       {"name":"SparkML","link":"https://spark.apache.org/docs/1.2.2/index.html"},
@@ -22,14 +23,17 @@
   },
   {
       "grouping":"Databases",
-      "skills":["mySQL","MongoDb","Apache RDD","Indexed DB"]
+      "skills":["MySQL","PostgreSQL","DynamoDB","MongoDb","Apache RDD","Indexed DB"]
   },
   {
     "grouping":"Developer tools and consoles",
-    "skills":["Git","Perforce","VisualStudio","Android","XCode","PyCharm","NGINX","AWS","Linux","Apple","Windows"]
+    "skills":["VSCode","IntelliJ","Git","Perforce","VisualStudio","Android","XCode","PyCharm","NGINX","AWS","Linux","Apple","Windows"]
   },
   {
     "grouping":"Domain Knowledge",
-    "skills":["Data Analysis","Computer Vision","Natural Language Processing","Machine Learning","Image processing","Color Management","Storage Scalability","System Design"]
+    "skills":["Native AWS (NAWS) Cloud Development","Cloud Deployment Infrastructure","Test Automation Infrastructure",
+      "Database Internals","Data Analysis","Storage Scalability","System Design",
+      "Computer Vision","Natural Language Processing","Machine Learning", "Image Processing", "Color Management",
+      "Web Development", "Android Development"]
   }
 ]
