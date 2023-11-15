@@ -1,19 +1,25 @@
 [
     {
-        "role":"Software Engineer 2",
-        "company":"Amazon",
-        "summary":"Worked on scaling and expecting client requirements for Aurora - A highly scalable SQL database of AWS", 
-        "range":"Aug 2020 – Present"
+        "role":"Software Development Engineer 2",
+        "company":"Amazon Web Services Pvt. Ltd.",
+        "summary":"Built entire control plane and data plane stack of AWS Aurora MySQL infrastructure for Tokyo region and lead 5-person team who delivered on automating the same.\nMy primary focus in this team revolves around the test, deployment and new region build infrastructure of AWS Aurora MySQL.\n",
+        "range":"Dec 2021 – Present"
     },
     {
-        "role":"Software Engineer",
-        "company":"Adobe Systems",
+        "role":"Software Development Engineer 2",
+        "company":"Amazon Web Services India Pvt. Ltd.",
+        "summary":"Worked on the fault tolerance aspects of AWS Aurora MySQL which is a fully managed cloud native SQL database service.\nMy primary contributions revolved around Defunct segment handling, Dead latch diagnostics, Page diagnostics, Out of memory avoidance and Fault injection features for Aurora MySQL 8.0 engine.\n",
+        "range":"Aug 2020 – Dec 2021"
+    },
+    {
+        "role":"Software Development Engineer 1",
+        "company":"Adobe Systems India Pvt. Ltd.",
         "summary":"Developed Genshop which is Adobe's in-house deep learning python library for Generative models primarily GANs. Worked on CPU (single and multithreaded) and GPU workflows of Adobe Color Engine (ACE) and Adobe Font Engine(CoolType). ", 
         "range":"Jun 2019 – Aug 2020"
     },
     {
         "role":"Research Intern",
-        "company":"Adobe Systems",
+        "company":"Adobe Systems India Pvt. Ltd.",
         "summary":"Interned with Big Data Experience Lab, Adobe Research, Bengaluru on the project personalized highlighting based on reader feedback.",
         "range":"May 2018 - July 2018"
     },
