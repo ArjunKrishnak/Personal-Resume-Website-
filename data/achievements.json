@@ -1,34 +1,39 @@
 [
-
     {
-        "title":"Kudos award Adobe 2020",
+        "title":"AWS Aurora hackathon",
+        "institution":"Amazon Web Services",
+        "summary":"Won Aurora hackathon 2021 for developing novel prefetch algorithm for data read ahead for Aurora MySQL 8.0 engine.",
+        "date":"2021"
+    },
+    {
+        "title":"Kudos award Adobe",
         "institution":"Adobe Systems",
-        "summary":"Kudos award for best performing individual contributor of Adobe core technology team of 52 members",
+        "summary":"Won prestigious kudos award 2020 for my contributions at CoreTech Adobe among team of 100+ builders.",
+        "date":"2019"
+    },
+    {
+        "title":"Winner of Adobe shark tank",
+        "institution":"Adobe Systems",
+        "summary":"Winner Adobe shark tank event for best product idea pitch amongst 100+ new hires.",
         "date":"2019"
     },
     {
         "title":"Best B.Tech. project award",
         "institution":"Indian Institute of Technology Roorkee",
-        "summary":"Best B.Tech. Project Award IIT Roorkee received from director IIT Roorkee.",
+        "summary":"Best B.Tech. Project Award received from director IIT Roorkee amongst 1816 students.",
         "date":"2019"
     },
     {
-        "title":"Winner Adobe shark tank event",
-        "institution":"Adobe Systems",
-        "summary":"Won the Adobe shark tank event for the best idea pich among all the new campus graduates",
-        "date":"2019"
-    },
-    {
-        "title":"KVPY national scholarship ",
+        "title":"KVPY national scholarship fellow",
         "institution":"Indian Institute of Science",
-        "summary":"Secured All India Rank of 401 among ~1,20,000 participants for Kishore Vaigyanik Protsahan Yojana",
-        "date":"2014"
+        "summary":"Secured All India Rank of 401 among ~1,50,000 participants for Kishore Vaigyanik Protsahan Yojana",
+        "date":"2015"
     },
     {
         "title": "District topper of All India Senior School Certificate Examination 2015",
         "institution":"Indian Institute of Science",
         "summary":"All India Senior School Certificate Examination 2015 certificate received from education minister India.",
-        "date":"2014"
+        "date":"2015"
     },
     {
         "title": "Cleared  First Stage of CODEFUNDO ",
