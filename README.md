@@ -5,5 +5,10 @@ arjunkrishnak.github.io
   [hugo-resume](https://github.com/eddiewebb/hugo-resume) powered by [hugo](https://gohugo.io/)
 # Favicon 
   favicon is generated using https://favicon.io/favicon-generator/ 
+# How to build
+```
+brew install hugo
+hugo
+```
   
 
