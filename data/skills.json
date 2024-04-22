@@ -1,13 +1,13 @@
 [
   {
       "grouping":"Programming Languages",
-      "skills":[ "C++","Java","Python","JavaScript","TypeScript","C","Objective C","MATLAB","Ruby"]
+      "skills":["Python","C++","Java","JavaScript","TypeScript","C","Objective C","MATLAB","Ruby"]
   },
   {
     "grouping":"Frameworks",
     "skills":[
-      {"name":"AWS SDK","link":"https://sdk.amazonaws.com/java/api/latest/"},
       {"name":"Pytorch","link":"https://pytorch.org/"},
+      {"name":"AWS SDK","link":"https://sdk.amazonaws.com/java/api/latest/"},
       {"name":"TensorFlow","link":"https://www.tensorflow.org/"},
       {"name":"SparkML","link":"https://spark.apache.org/docs/1.2.2/index.html"},
       {"name":"React","link":"https://reactjs.org/"},
@@ -31,9 +31,9 @@
   },
   {
     "grouping":"Domain Knowledge",
-    "skills":["Native AWS (NAWS) Cloud Development","Cloud Deployment Infrastructure","Test Automation Infrastructure",
-      "Database Internals","Data Analysis","Storage Scalability","System Design",
-      "Computer Vision","Natural Language Processing","Machine Learning", "Image Processing", "Color Management",
+    "skills":["Machine Learning", "Big Data Analysis", "AWS (NAWS) Cloud Development", "Cloud Deployment Infrastructure", "Test Automation Infrastructure",
+      "Database Internals", "Data Analysis", "Storage Scalability", "System Design",
+      "Computer Vision", "Natural Language Processing", "Image Processing", "Color Management",
       "Web Development", "Android Development"]
   }
 ]

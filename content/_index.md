@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I am an IIT Roorkee alumnus currently working at Amazon. I'm passionate about machine learning and web development. Through my projects and work experience, I was able to familiarize myself how to handle big data, develop POCs around machine learning models and develop machine learning solutions in production. I am also familiar with SOLID design principles, data structures, system design and test-driven development to provide end to end solutions.
+Rich 5+ years of software work experience with domain expertise in machine learning, cloud infrastructure systems for machine learning, system design, algorithm design, distributed cloud computing, storage scalability. Demonstrated experience in technical leadership, establishing technical standards and best practices.

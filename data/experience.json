@@ -1,14 +1,20 @@
 [
     {
+        "role":"Software Development Engineer",
+        "company":"Amazon Web Services Pvt. Ltd.",
+        "summary":"I work on SageMaker Distributed Model Parallel library, which makes large scale deep learning training easier and performant.\n",
+        "range":"Dec 2021 – Present"
+    },
+    {
         "role":"Software Development Engineer 2",
         "company":"Amazon Web Services Pvt. Ltd.",
-        "summary":"Built entire control plane and data plane stack of AWS Aurora MySQL infrastructure for Tokyo region and lead 5-person team who delivered on automating the same.\nMy primary focus in this team revolves around the test, deployment and new region build infrastructure of AWS Aurora MySQL.\n",
+        "summary":"Built entire control plane and data plane stack of AWS Aurora ML Zero ETL infrastructure by leading 5-person team \n.My primary focus in this team revolves around building the distributed Native AWS cloud service used for the and ecosystem infrastructure of AWS Aurora MySQL.\n",
         "range":"Dec 2021 – Present"
     },
     {
         "role":"Software Development Engineer 2",
         "company":"Amazon Web Services India Pvt. Ltd.",
-        "summary":"Worked on the fault tolerance aspects of AWS Aurora MySQL which is a fully managed cloud native SQL database service.\nMy primary contributions revolved around Defunct segment handling, Dead latch diagnostics, Page diagnostics, Out of memory avoidance and Fault injection features for Aurora MySQL 8.0 engine.\n",
+        "summary":"Worked on the fault tolerance aspects of AWS Aurora MySQL which is a fully managed cloud native SQL database service \n. My primary contributions revolved around Defunct segment handling, Dead latch diagnostics, Page diagnostics, Out of memory avoidance and Fault injection features for Aurora MySQL 8.0 engine.",
         "range":"Aug 2020 – Dec 2021"
     },
     {
