@@ -7,6 +7,7 @@
     "grouping":"Frameworks",
     "skills":[
       {"name":"Pytorch","link":"https://pytorch.org/"},
+      {"name":"Transformers","link":"https://github.com/huggingface/transformers"},
       {"name":"AWS SDK","link":"https://sdk.amazonaws.com/java/api/latest/"},
       {"name":"TensorFlow","link":"https://www.tensorflow.org/"},
       {"name":"SparkML","link":"https://spark.apache.org/docs/1.2.2/index.html"},
@@ -23,11 +24,11 @@
   },
   {
       "grouping":"Databases",
-      "skills":["MySQL","PostgreSQL","DynamoDB","MongoDb","Apache RDD","Indexed DB"]
+      "skills":["MySQL","DynamoDB","PostgreSQL","MongoDb","Apache RDD","Indexed DB"]
   },
   {
     "grouping":"Developer tools and consoles",
-    "skills":["VSCode","IntelliJ","Git","Perforce","VisualStudio","Android","XCode","PyCharm","NGINX","AWS","Linux","Apple","Windows"]
+    "skills":["HuggingFace","VSCode","IntelliJ","Git","Perforce","VisualStudio","Android","XCode","PyCharm","NGINX","AWS","Linux","Apple","Windows"]
   },
   {
     "grouping":"Domain Knowledge",

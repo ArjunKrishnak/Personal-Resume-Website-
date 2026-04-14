@@ -8,7 +8,7 @@ theme = "hugo-resume"
     lastName = "Krishna"
     address = "San Francisco, California, USA"
     phone = "+16508805337"
-    contactNote = "Software Development Engineer at AWS AI/ML | Ex-Adobe | IIT Roorkee 2019"
+    contactNote = "Senior AI Research Engineer @ Writer | Ex AWS, Adobe AI/ML | IIT Roorkee 2019"
     profileImage = "img/profile_pic.jpg"
     email = "arjunkrishna.office@gmail.com"
     
@@ -24,10 +24,6 @@ theme = "hugo-resume"
     showExperience = true
     showEducation = true
     showQr = false
-
-[[params.handles]]
-    name = "Facebook"
-    link = "https://www.facebook.com/arjun.krishna.50309277"
 
 [[params.handles]]
     name = "LinkedIn"
