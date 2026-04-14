@@ -1,24 +1,24 @@
 [
     {
+        "role":"Senior AI Research Engineer",
+        "company":"Writer",
+        "summary":"Building the next generation of Palmyra LLMs and optimizing training and inference techniques for them. \n Read more @ https://writer.com/llms/  \n ",
+        "range":"Dec 2024 – Present"
+    },
+    {
         "role":"Software Development Engineer",
         "company":"Amazon Web Services Pvt. Ltd.",
-        "summary":"I work on SageMaker Distributed Model Parallel library, which makes large scale deep learning training easier and performant.\n",
-        "range":"Dec 2021 – Present"
+        "summary":"Lead for SageMaker HyperPod Distributed Training Recipes that automate the end-to-end training loop, including loading datasets, applying distributed training techniques, and managing checkpoints for faster recovery from faults. \n Read more @ https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-hyperpod-recipes.html \n Lead for SageMaker Distributed Model Parallel library, which makes large scale distributed deep learning training easier and performant. Optimized multi-GPU training of LLM’s like Transformers, Llama and Mistral by leading 5-person team. \n Read more @ https://docs.aws.amazon.com/sagemaker/latest/dg/model-parallel-v2.html \n Developed Aurora zero-ETL integration with Amazon Redshift and Amazon SageMaker to enables near real-time analytics and machine learning (ML) using data from Aurora. \n Read more @ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/zero-etl.html",
+        "range":"Dec 2021 – Dec 2024"
     },
     {
-        "role":"Software Development Engineer 2",
-        "company":"Amazon Web Services Pvt. Ltd.",
-        "summary":"Built entire control plane and data plane stack of AWS Aurora ML Zero ETL infrastructure by leading 5-person team \n.My primary focus in this team revolves around building the distributed Native AWS cloud service used for the and ecosystem infrastructure of AWS Aurora MySQL.\n",
-        "range":"Dec 2021 – Present"
-    },
-    {
-        "role":"Software Development Engineer 2",
+        "role":"Software Development Engineer",
         "company":"Amazon Web Services India Pvt. Ltd.",
-        "summary":"Worked on the fault tolerance aspects of AWS Aurora MySQL which is a fully managed cloud native SQL database service \n. My primary contributions revolved around Defunct segment handling, Dead latch diagnostics, Page diagnostics, Out of memory avoidance and Fault injection features for Aurora MySQL 8.0 engine.",
+        "summary":"Developed a novel prefetch algorithm for data read-ahead by incorporating clustering algorithms based on data access patterns, increasing SQL read throughput by 30%. ",
         "range":"Aug 2020 – Dec 2021"
     },
     {
-        "role":"Software Development Engineer 1",
+        "role":"Software Development Engineer",
         "company":"Adobe Systems India Pvt. Ltd.",
         "summary":"Developed Genshop which is Adobe's in-house deep learning python library for Generative models primarily GANs. Worked on CPU (single and multithreaded) and GPU workflows of Adobe Color Engine (ACE) and Adobe Font Engine(CoolType). ", 
         "range":"Jun 2019 – Aug 2020"
@@ -26,13 +26,13 @@
     {
         "role":"Research Intern",
         "company":"Adobe Systems India Pvt. Ltd.",
-        "summary":"Interned with Big Data Experience Lab, Adobe Research, Bengaluru on the project personalized highlighting based on reader feedback.",
+        "summary":"Interned with Big Data Experience Lab, Adobe Research on the project to personalized highlighting based on reader feedback. Incorporated information retrieval and reinforcement learning techniques for keyword extraction.",
         "range":"May 2018 - July 2018"
     },
     {
         "role":"Research Assistant",
         "company":"IIT Roorkee",
-        "summary":"Worked on Action Recognition with feature fusion which involved combining traditional computer vision techniques with deep learning to improve the accuracy of Action Recognition.",
+        "summary":"Researched on action recognition with feature fusion which involved combining traditional computer vision techniques with deep learning to improve the accuracy of action recognition.",
         "range":"Dec 2017 – Jan 2018"
     }
     

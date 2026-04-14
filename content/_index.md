@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Rich 5+ years of software work experience with domain expertise in machine learning, cloud infrastructure systems for machine learning, system design, algorithm design, distributed cloud computing, storage scalability. Demonstrated experience in technical leadership, establishing technical standards and best practices.
+6+ years of software work experience with domain expertise in ML foundation model modelling training and inference, distributed cloud infrastructure for ML infrastructure and big data pipelines. Demonstrated experience in technical leadership, establishing technical standards and best practices.
