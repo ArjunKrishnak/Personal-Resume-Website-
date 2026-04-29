@@ -12,7 +12,7 @@ theme = "hugo-resume"
     profileImage = "img/profile_pic.jpg"
     email = "arjunkrishna.office@gmail.com"
     
-    description = "6+ years of software work experience with domain expertise in ML foundation model modelling training and inference, distributed cloud infrastructure for ML infrastructure and big data pipelines. Demonstrated experience in technical leadership, establishing technical standards and best practices."
+    description = "7+ years of software work experience with domain expertise in ML foundation model modelling training and inference, distributed cloud infrastructure for ML infrastructure and big data pipelines. Demonstrated experience in technical leadership, establishing technical standards and best practices."
     favicon = "/favicon.ico"
     # what sections
     showDownloadResumeLink = true

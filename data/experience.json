@@ -2,13 +2,13 @@
     {
         "role":"Senior AI Research Engineer",
         "company":"Writer",
-        "summary":"Building the next generation of Palmyra LLMs and optimizing training and inference techniques for them. \n Read more @ https://writer.com/llms/  \n ",
+        "summary":"Building the next generation of Palmyra LLMs and optimizing training and inference techniques for them.",
         "range":"Dec 2024 – Present"
     },
     {
         "role":"Software Development Engineer",
         "company":"Amazon Web Services Pvt. Ltd.",
-        "summary":"Lead for SageMaker HyperPod Distributed Training Recipes that automate the end-to-end training loop, including loading datasets, applying distributed training techniques, and managing checkpoints for faster recovery from faults. \n Read more @ https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-hyperpod-recipes.html \n Lead for SageMaker Distributed Model Parallel library, which makes large scale distributed deep learning training easier and performant. Optimized multi-GPU training of LLM’s like Transformers, Llama and Mistral by leading 5-person team. \n Read more @ https://docs.aws.amazon.com/sagemaker/latest/dg/model-parallel-v2.html \n Developed Aurora zero-ETL integration with Amazon Redshift and Amazon SageMaker to enables near real-time analytics and machine learning (ML) using data from Aurora. \n Read more @ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/zero-etl.html",
+        "summary":"Lead for SageMaker HyperPod Distributed Training Recipes that automate the end-to-end training loop, including loading datasets, applying distributed training techniques, and managing checkpoints for faster recovery from faults. Lead for SageMaker Distributed Model Parallel library, which makes large scale distributed deep learning training easier and performant. Optimized multi-GPU training of LLM’s like Transformers, Llama and Mistral by leading 5-person team. Developed Aurora zero-ETL integration with Amazon Redshift and Amazon SageMaker to enables near real-time analytics and machine learning (ML) using data from Aurora.",
         "range":"Dec 2021 – Dec 2024"
     },
     {
