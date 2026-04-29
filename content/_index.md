@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-6+ years of software work experience with domain expertise in ML foundation model modelling training and inference, distributed cloud infrastructure for ML infrastructure and big data pipelines. Demonstrated experience in technical leadership, establishing technical standards and best practices.
+7+ years of software work experience with domain expertise in ML foundation model modelling training and inference, distributed cloud infrastructure for ML infrastructure and big data pipelines. Demonstrated experience in technical leadership, establishing technical standards and best practices.
