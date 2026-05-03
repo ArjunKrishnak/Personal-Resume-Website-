@@ -1,38 +1,38 @@
 [
     {
-        "role":"Senior AI Research Engineer",
+        "role":"Senior Machine Learning Engineer",
         "company":"Writer",
-        "summary":"Building the next generation of Palmyra LLMs and optimizing training and inference techniques for them.",
+        "summary":"Led cross-organizational effort across engineering, research, and infosec teams to architect and launch Palmyra self-evolving models that surpass frozen LLM perf ceiling on enterprise agentic workflows by 23% through continuous learning from model interactions. Led team of 7 engineers to develop Palmyra X5, achieving GPT 4.1 level perf at 4X lower cost and state-of-the-art latency (22s at 1M tokens).",
         "range":"Dec 2024 – Present"
     },
     {
-        "role":"Software Development Engineer",
+        "role":"Senior Software Development Engineer",
         "company":"Amazon Web Services Pvt. Ltd.",
-        "summary":"Lead for SageMaker HyperPod Distributed Training Recipes that automate the end-to-end training loop, including loading datasets, applying distributed training techniques, and managing checkpoints for faster recovery from faults. Lead for SageMaker Distributed Model Parallel library, which makes large scale distributed deep learning training easier and performant. Optimized multi-GPU training of LLM’s like Transformers, Llama and Mistral by leading 5-person team. Developed Aurora zero-ETL integration with Amazon Redshift and Amazon SageMaker to enables near real-time analytics and machine learning (ML) using data from Aurora.",
+        "summary":"Led development and launch for SageMaker HyperPod Distributed Training Recipes, comprising a team of 10, including senior ICs. Drove cross-team collaborations and integrations. These open-source recipes (80+ stars in GitHub) automate training by loading datasets, applying distributed training techniques, and managing checkpoints. Lead for SageMaker Distributed Model Parallel library, delivering up to 20% perf gains over PyTorch FSDP for large-scale LLM training. Improved parallelism of LLMs like Llama & Mistral by comprising a team of 5.",
         "range":"Dec 2021 – Dec 2024"
     },
     {
         "role":"Software Development Engineer",
         "company":"Amazon Web Services India Pvt. Ltd.",
-        "summary":"Developed a novel prefetch algorithm for data read-ahead by incorporating clustering algorithms based on data access patterns, increasing SQL read throughput by 30%. ",
+        "summary":"Developed machine learning ecosystem infrastructure Aurora ZeroETL and Bedrock and SageMaker integrations for Aurora, enabling native ML workflows for Aurora customers. Developed a novel prefetch algorithm for data read-ahead by incorporating clustering algorithms based on data access patterns, increasing SQL read throughput by 30%. ",
         "range":"Aug 2020 – Dec 2021"
     },
     {
         "role":"Software Development Engineer",
         "company":"Adobe Systems India Pvt. Ltd.",
-        "summary":"Developed Genshop which is Adobe's in-house deep learning python library for Generative models primarily GANs. Worked on CPU (single and multithreaded) and GPU workflows of Adobe Color Engine (ACE) and Adobe Font Engine(CoolType). ", 
+        "summary":"Developed Genshop, Adobe's core deep learning library for generative models, adopted across multiple products. Implemented CPU and GPU workflows with CUDA primitives for Adobe color, graphics & font engine.", 
         "range":"Jun 2019 – Aug 2020"
     },
     {
         "role":"Research Intern",
         "company":"Adobe Systems India Pvt. Ltd.",
-        "summary":"Interned with Big Data Experience Lab, Adobe Research on the project to personalized highlighting based on reader feedback. Incorporated information retrieval and reinforcement learning techniques for keyword extraction.",
+        "summary":"Built a personalized document-highlighting system that used prior reader interactions to surface the most relevant content in new documents. Incorporated information retrieval and reinforcement learning techniques for keyword extraction.",
         "range":"May 2018 - July 2018"
     },
     {
         "role":"Research Assistant",
         "company":"IIT Roorkee",
-        "summary":"Researched on action recognition with feature fusion which involved combining traditional computer vision techniques with deep learning to improve the accuracy of action recognition.",
+        "summary":"Researched on action recognition with feature fusion which involved combining traditional computer vision techniques with deep learning to improve the accuracy of action recognition by 15%.",
         "range":"Dec 2017 – Jan 2018"
     }
     

@@ -1,40 +1,114 @@
 [
   {
-      "grouping":"Programming Languages",
-      "skills":["Python","C++","Java","JavaScript","TypeScript","C","Objective C","MATLAB","Ruby"]
-  },
-  {
-    "grouping":"Frameworks",
-    "skills":[
-      {"name":"Pytorch","link":"https://pytorch.org/"},
-      {"name":"Transformers","link":"https://github.com/huggingface/transformers"},
-      {"name":"AWS SDK","link":"https://sdk.amazonaws.com/java/api/latest/"},
-      {"name":"TensorFlow","link":"https://www.tensorflow.org/"},
-      {"name":"SparkML","link":"https://spark.apache.org/docs/1.2.2/index.html"},
-      {"name":"React","link":"https://reactjs.org/"},
-      {"name":"Android SDK","link":"https://developer.android.com/studio/releases/sdk-tools"},
-      {"name":"OpenCV","link":"https://opencv.org/"},
-      {"name":"NodeJS","link":"https://nodejs.org/en/about/"},
-      {"name":"Flask","link":"https://palletsprojects.com/p/flask/"},
-      {"name":"HLSL","link":"https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl"},
-      {"name":"Metal","link":"https://developer.apple.com/metal/"},
-      {"name":"Microsoft SDK","link":"https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk/"},
-      {"name":"Emscripten","link":"https://emscripten.org/"}
+    "grouping": "Programming Languages",
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "C",
+      "Objective C",
+      "MATLAB",
+      "Ruby"
     ]
   },
   {
-      "grouping":"Databases",
-      "skills":["MySQL","DynamoDB","PostgreSQL","MongoDb","Apache RDD","Indexed DB"]
+    "grouping": "Frameworks",
+    "skills": [
+      {"name": "PyTorch", "link": "https://pytorch.org/"},
+      {"name": "TensorFlow", "link": "https://www.tensorflow.org/"},
+      {"name": "Transformers", "link": "https://github.com/huggingface/transformers"},
+      {"name": "JAX", "link": "https://github.com/google/jax"},
+      {"name": "NeMo", "link": "https://developer.nvidia.com/nemo"},
+      {"name": "DeepSpeed", "link": "https://github.com/microsoft/DeepSpeed"},
+      {"name": "PEFT", "link": "https://github.com/huggingface/peft"},
+      {"name": "vLLM", "link": "https://github.com/vllm-project/vllm"},
+      {"name": "SGLang", "link": "https://github.com/sgl-project/sglang"},
+      {"name": "TensorRT-LLM", "link": "https://github.com/NVIDIA/TensorRT-LLM"},
+      {"name": "LangChain", "link": "https://github.com/langchain-ai/langchain"},
+      {"name": "Keras", "link": "https://keras.io/"},
+      {"name": "OpenCV", "link": "https://opencv.org/"},
+      {"name": "SparkML", "link": "https://spark.apache.org/docs/latest/ml-guide.html"},
+      {"name": "CUDA", "link": "https://developer.nvidia.com/cuda-toolkit"},
+      {"name": "Scikit-learn", "link": "https://scikit-learn.org/"},
+      {"name": "XGBoost", "link": "https://xgboost.ai/"},
+      {"name": "NumPy", "link": "https://numpy.org/"},
+      {"name": "Pandas", "link": "https://pandas.pydata.org/"},
+      {"name": "Ray", "link": "https://www.ray.io/"},
+      {"name": "NCCL", "link": "https://developer.nvidia.com/nccl"},
+      {"name": "Flask", "link": "https://palletsprojects.com/p/flask/"},
+      {"name": "React", "link": "https://reactjs.org/"},
+      {"name": "NodeJS", "link": "https://nodejs.org/en/about/"}
+    ]
   },
   {
-    "grouping":"Developer tools and consoles",
-    "skills":["HuggingFace","VSCode","IntelliJ","Git","Perforce","VisualStudio","Android","XCode","PyCharm","NGINX","AWS","Linux","Apple","Windows"]
+    "grouping": "Big Data Technologies",
+    "skills": [
+      "Kubernetes",
+      "Slurm",
+      "Hadoop",
+      "Spark",
+      "Hive",
+      "Flink"
+    ]
   },
   {
-    "grouping":"Domain Knowledge",
-    "skills":["Machine Learning", "Big Data Analysis", "AWS (NAWS) Cloud Development", "Cloud Deployment Infrastructure", "Test Automation Infrastructure",
-      "Database Internals", "Data Analysis", "Storage Scalability", "System Design",
-      "Computer Vision", "Natural Language Processing", "Image Processing", "Color Management",
-      "Web Development", "Android Development"]
+    "grouping": "Databases",
+    "skills": [
+      "MySQL",
+      "DynamoDB",
+      "PostgreSQL",
+      "MongoDB",
+      "Apache RDD",
+      "Indexed DB",
+      "Cassandra",
+      "Pinecone"
+    ]
+  },
+  {
+    "grouping": "Developer tools and consoles",
+    "skills": [
+      "HuggingFace",
+      "Git",
+      "Perforce",
+      "Docker",
+      "OpenRouter",
+      "GitHub Copilot",
+      "Cursor",
+      "Claude Code",
+      "VSCode",
+      "IntelliJ",
+      "VisualStudio",
+      "PyCharm",
+      "NGINX",
+      "AWS",
+      "Linux",
+      "Mac",
+      "Windows",
+      "Android",
+      "XCode",
+      "Apple"
+    ]
+  },
+  {
+    "grouping": "Domain Knowledge",
+    "skills": [
+      "Machine Learning",
+      "Big Data Analysis",
+      "AWS (NAWS) Cloud Development",
+      "Cloud Deployment Infrastructure",
+      "Test Automation Infrastructure",
+      "Database Internals",
+      "Data Analysis",
+      "Storage Scalability",
+      "System Design",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Image Processing",
+      "Color Management",
+      "Web Development",
+      "Android Development"
+    ]
   }
 ]

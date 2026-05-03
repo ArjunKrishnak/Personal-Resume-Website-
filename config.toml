@@ -6,9 +6,9 @@ theme = "hugo-resume"
 [params]
     firstName = "Arjun"
     lastName = "Krishna"
-    address = "San Francisco, California, USA"
+    address = "Santa Clara, California, USA"
     phone = "+16508805337"
-    contactNote = "Senior AI Research Engineer @ Writer | Ex AWS, Adobe AI/ML | IIT Roorkee 2019"
+    contactNote = "Senior Machine Learning Engineer @ Writer | Ex AWS, Adobe ML | IIT Roorkee 2019"
     profileImage = "img/profile_pic.jpg"
     email = "arjunkrishna.office@gmail.com"
     
