@@ -8,7 +8,7 @@
     {
         "role":"Senior Software Development Engineer",
         "company":"Amazon Web Services Pvt. Ltd.",
-        "summary":"Led development and launch for SageMaker HyperPod Distributed Training Recipes, comprising a team of 10, including senior ICs. Drove cross-team collaborations and integrations. These open-source recipes (80+ stars in GitHub) automate training by loading datasets, applying distributed training techniques, and managing checkpoints. Lead for SageMaker Distributed Model Parallel library, delivering up to 20% perf gains over PyTorch FSDP for large-scale LLM training. Improved parallelism of LLMs like Llama & Mistral by comprising a team of 5.",
+        "summary":"Led development and launch for SageMaker HyperPod Distributed Training Recipes, comprising a team of 10, including senior ICs. Drove cross-team collaborations and integrations. These open-source recipes (80+ stars in GitHub) automate training by loading datasets, applying distributed training techniques, and managing checkpoints. Lead for SageMaker Distributed Model Parallel library, delivering up to 20% perf gains over PyTorch FSDP for large-scale LLM training. Improved parallelism of LLMs like Llama, Qwen & GLM by leading team of 5 ICs.",
         "range":"Dec 2021 – Dec 2024"
     },
     {
